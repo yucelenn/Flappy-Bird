@@ -17,6 +17,7 @@ Başlangıç Ekranı: Uygulama başlatıldığında kullanıcıyı karşılayan 
 Başlangıç ekranı bileşenlerinin kullanım senaryoları:
 
 -Play tuşuna basıldığında başlangıç ekranı kapanır ve oyun ekranı başlatılır.
+
 -Skor tuşuna basıldığında o ana kadar yapılmış en iyi 10 skor ekrana gelir.
 
 Oyun Ekranı: Uygulama amacının gerçekleştirildiği yani kullanıcının oyunu deneyimlediği ekrandır. Kullanıcı, üzerine gelen bloklara temas etmeden ilerleyebilmek için ekrana tıklayarak kuşu kontrol eder ve kullanıcının geçtiği blok sayısı ekrana basılır. Kuşun bloklara veya zemine temas etmesi haline bitiş ekranı açılır. Oyun ekranının grafiksel kullanıcı arayüzü şu şekildedir:
