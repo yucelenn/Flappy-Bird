@@ -1,12 +1,16 @@
 # Flappy-Bird
   PROJE TANITIMI
+  
   Flappy Bird projesi mobil platform için iki boyutlu bir oyun projesidir. Oyunun genel amacı; her ekrana tıklandığında (tap) ekranın ortasındaki kuşu zıplatarak, kuşun önüne gelen engellere (blok) dokunmadan ilerleyebilmesini sağlamaktır. Her geçilen engelde puan (score) artırılır ve ekrana anlık olarak yansıtılır. Kuş herhangi bir engel veya zemine dokunduğunda ise oyun sonlandırılır.
   
   GELİŞTİRME ORTAMI VE KULLANILAN TEKNOLOJİLER
+  
   Flappy Bird projesi Unity oyun motoru kullanılarak geliştirilmiştir. Kuşun zıplaması, butonların aktive edilmesi, skor sayacı gibi oyun özellikleri için ise kodlama kısmında C# yazılım dili kullanılmıştır.
   
   TASARIM
+  
   Kullanım sırasında kullanıcının karşılaşacağı ekranlar sırasıyla başlangıç ekranı, oyun ekranı ve bitiş ekranıdır.
+  
 Başlangıç Ekranı: Uygulama başlatıldığında kullanıcıyı karşılayan ana ekrandır. Başlangıç ekranı; play tuşu, skor tuşu, oyun oynanışı animasyonuna ilaveten oyunun logosunun bulunduğu alanı içerir. Başlangıç ekranının grafiksel kullanıcı arayüzü şu şekildedir:
 ![baş](https://user-images.githubusercontent.com/74682394/200574263-d82b6ae6-7926-4d37-a360-2506ad49da32.png)
 
