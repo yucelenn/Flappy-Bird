@@ -27,7 +27,8 @@ Oyun Ekranı: Uygulama amacının gerçekleştirildiği yani kullanıcının oyu
 
 Bitiş Ekranı: Oyun esnasında kuşun bloklara-zemine teması halinde yani oyun sonlandığı zaman ortaya çıkan ekrandır. Bu ekranda skor alanları, “Game Over” simgesi, retry tuşu ve quit tuşu bulunur. Bitiş ekranının grafiksel kullanıcı arayüzü şu şekildedir:
 
-![sss](https://user-images.githubusercontent.com/74682394/200576200-c6f44e1a-c068-4685-807a-b57c6eccbc3d.png)
+![final](https://user-images.githubusercontent.com/74682394/200577279-e23e212e-7f5b-4e99-8e6c-6fb91540213e.png)
+
 
 Bitiş ekranı bileşenlerinin kullanım senaryoları:
 
