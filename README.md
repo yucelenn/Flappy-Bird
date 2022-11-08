@@ -12,6 +12,7 @@
   Kullanım sırasında kullanıcının karşılaşacağı ekranlar sırasıyla başlangıç ekranı, oyun ekranı ve bitiş ekranıdır.
   
 Başlangıç Ekranı: Uygulama başlatıldığında kullanıcıyı karşılayan ana ekrandır. Başlangıç ekranı; play tuşu, scores tuşu, oyun oynanışı animasyonuna ilaveten oyunun logosunun bulunduğu alanı içerir. Başlangıç ekranının grafiksel kullanıcı arayüzü şu şekildedir:
+
 ![baş](https://user-images.githubusercontent.com/74682394/200574263-d82b6ae6-7926-4d37-a360-2506ad49da32.png)
 
 Başlangıç ekranı bileşenlerinin kullanım senaryoları:
