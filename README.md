@@ -1,5 +1,5 @@
 # Flappy-Bird
-    PROJE TANITIMI
+  PROJE TANITIMI
   
   Flappy Bird projesi mobil platform için iki boyutlu bir oyun projesidir. Oyunun genel amacı; her ekrana tıklandığında (tap) ekranın ortasındaki kuşu zıplatarak, kuşun önüne gelen engellere (blok) dokunmadan ilerleyebilmesini sağlamaktır. Her geçilen engelde puan (score) artırılır ve ekrana anlık olarak yansıtılır. Kuş herhangi bir engel veya zemine dokunduğunda ise oyun sonlandırılır.
   
