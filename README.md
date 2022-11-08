@@ -16,5 +16,7 @@
 ![image](https://user-images.githubusercontent.com/74682394/200566239-46f0c6c7-2a4f-4f1d-b332-48fa7bcae14c.png)
 
 Başlangıç ekranı bileşenlerinin kullanım senaryoları:
+
 -Play tuşuna basıldığında başlangıç ekranı kapanır ve oyun ekranı başlatılır.
+
 -Skor tuşuna basıldığında o ana kadar yapılmış en iyi 10 skor ekrana gelir.
