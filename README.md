@@ -1,5 +1,5 @@
 # Flappy-Bird
-  PROJE TANITIMI
+    PROJE TANITIMI
   
   Flappy Bird projesi mobil platform için iki boyutlu bir oyun projesidir. Oyunun genel amacı; her ekrana tıklandığında (tap) ekranın ortasındaki kuşu zıplatarak, kuşun önüne gelen engellere (blok) dokunmadan ilerleyebilmesini sağlamaktır. Her geçilen engelde puan (score) artırılır ve ekrana anlık olarak yansıtılır. Kuş herhangi bir engel veya zemine dokunduğunda ise oyun sonlandırılır.
   
@@ -25,13 +25,18 @@ Oyun Ekranı: Uygulama amacının gerçekleştirildiği yani kullanıcının oyu
 ![image](https://user-images.githubusercontent.com/74682394/200567333-52b0d159-8728-4ac2-af6e-058efe1f1bdd.png)
 ![image](https://user-images.githubusercontent.com/74682394/200567368-4d9c4235-2f67-420a-8b52-9b3266c072f7.png)
 
-Bitiş Ekranı: Oyun esnasında kuşun bloklara-zemine teması halinde yani oyun sonlandığı zaman ortaya çıkan ekrandır. Bu ekranda skor alanları, “Game Over” simgesi, replay tuşu ve çıkış tuşu bulunur. Bitiş ekranının grafiksel kullanıcı arayüzü şu şekildedir:
-![son](https://user-images.githubusercontent.com/74682394/200570020-f3d18b58-b85e-47fa-b700-b1cce0595297.png)
+Bitiş Ekranı: Oyun esnasında kuşun bloklara-zemine teması halinde yani oyun sonlandığı zaman ortaya çıkan ekrandır. Bu ekranda skor alanları, “Game Over” simgesi, retry tuşu ve quit tuşu bulunur. Bitiş ekranının grafiksel kullanıcı arayüzü şu şekildedir:
+
+![sss](https://user-images.githubusercontent.com/74682394/200576200-c6f44e1a-c068-4685-807a-b57c6eccbc3d.png)
 
 Bitiş ekranı bileşenlerinin kullanım senaryoları:
+
 -Skor alanındaki “Score” bölümü en son elde edilen skoru belirtir.
+
 -Skor alanındaki “Best” bölümü o ana kadarki elde edilen en yüksek skoru belirtir.
+
 -Retry tuşuna basıldığında oyun ekranı tekrar başlatılır.
+
 -Quit tuşuna basıldığında uygulama kapatılır.
 
 
