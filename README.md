@@ -35,9 +35,9 @@ Bitiş Ekranı: Oyun esnasında kuşun bloklara-zemine teması halinde yani oyun
 
 Bitiş ekranı bileşenlerinin kullanım senaryoları:
 
--Skor alanındaki “Score” bölümü en son elde edilen skoru belirtir.
+-Skor alanındaki “Your Score” bölümü en son elde edilen skoru belirtir.
 
--Skor alanındaki “Best” bölümü o ana kadarki elde edilen en yüksek skoru belirtir.
+-Skor alanındaki “Best Score” bölümü o ana kadarki elde edilen en yüksek skoru belirtir.
 
 -Retry tuşuna basıldığında oyun ekranı tekrar başlatılır.
 
